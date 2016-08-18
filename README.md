@@ -12,30 +12,24 @@ The purpose of this repository is solely for personal development and is intende
 
 ### Repository Description  
 
-This repository differs from the book in that the Matlab code has been translated to Python, intermingling with a subset of the books text via iPython Notebooks.  HTML copies of the notebooks are provided for ease of browser-viewing given the number of LaTeX equations present.  
-
-
+This repository differs from the book in that the Matlab code has been translated to Python, intermingling with a subset of the books text via iPython Notebooks.  
 
 * **\data**  
 
   * These are the related data files used by the notebooks  
 
-* **\html**  
-
-  * These are the HTML versions of the notebooks by chapter  
-
 * **\nb**  
 
   * **ch00.ipynb** Introduction  
-
     * I.3 A very quick Python tutorial  
     * I.4 Review of vectors and matrices and their representation  
     * I.5 Useful Python operations  
-  * **ch01.ipynb** Describing inverse problems  
 
+  * **ch01.ipynb** Describing inverse problems  
     * 1.1 Formulating inverse problems  
     * 1.2 The linear inverse problem  
     * 1.3 Examples of formulating inverse problems  
+
   * **ch02.ipynb** Some comments on probability theory  
     * 2.1 Noise and random variables  
     * 2.2 Correlated data  
