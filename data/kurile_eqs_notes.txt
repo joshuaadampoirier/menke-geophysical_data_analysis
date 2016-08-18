@@ -1,0 +1,6 @@
+http://earthquake.usgs.gov/earthquakes/eqarchives/epic/epic_rect.php
+---
+databse PDE
+search rectabgle: 53 44, 146, 158
+magnitude 5 10
+depth 50 700

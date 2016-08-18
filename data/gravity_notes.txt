@@ -1,0 +1,8 @@
+gravity data
+"Haxby's satellite gravity" in "mGal"
+source LDEO's Marine Geology & Geophysics database
+extracted area lon 0-10 deg, lat 0-10 deg
+created using command
+grdraster 3 -R0/10/0/10 > gravity.txt
+text file: lon, lat, gravity
+Source: Satellite gravity dataset, LDEO MGG database, compiled by Bill Haxby

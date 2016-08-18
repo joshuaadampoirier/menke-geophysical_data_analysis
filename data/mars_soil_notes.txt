@@ -1,0 +1,25 @@
+http://iacgu32.chemie.uni-mainz.de/mer/mer.php?rov=A&id=247
+---
+
+Mars Rover Mer-A Spirit
+
+Filename: 	2B189217027EDRAL00N1940N0M1.DAT
+Sol(s): 	707-708
+Feature name: 	Eldorado
+Target name: 	Shadow
+Target's type: 	Undist. Soil
+Target's picture: 	not available
+~Integration time: 	87490 sec
+~Temperature range: 	205-278 K
+Comment: 	Undisturbed soil
+
+---
+I have not found description of data format
+
+All non-zero columns except last look the same, just different number of counts
+last looks like noise.
+I deleted all but the column with the hightest counts (longest integration time?)
+---
+from web research that I've done, it looks to me that the velocity range -s +/- 12 mm/s
+
+

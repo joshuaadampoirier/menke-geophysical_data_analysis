@@ -1,0 +1,8 @@
+Global Centroid Moment Tensor Database
+http://www.globalcmt.org/CMTsearch.html
+moment tensor data for earthquakes in in the box
+135<=lon<=165, 45<=lat<=55, the Kurile-Kamchatka Arc area
+columns contain:
+lon lat depth mrr mtt mpp mrt mrp mtp iexp
+r=up, t=east, p=south
+Data courtesy of the Global CMT Project

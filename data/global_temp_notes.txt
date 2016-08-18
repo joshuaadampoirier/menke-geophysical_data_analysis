@@ -1,0 +1,12 @@
+http://data.giss.nasa.gov/gistemp/
+---
+
+Citation:
+Hansen et al. 2010
+Hansen, J., R. Ruedy, Mki. Sato, and K. Lo, 2010:
+Global surface temperature change. Rev. Geophys.,
+48, RG4004, doi:10.1029/2010RG000345
+
+---
+tabular data at
+http://data.giss.nasa.gov/gistemp/graphs/Fig.A.txt

@@ -1,0 +1,3 @@
+source wikipedia
+semi-major axis in km and period in days
+mercury venus earth mars ceres jupiter saturn uranus neptune and pluto
