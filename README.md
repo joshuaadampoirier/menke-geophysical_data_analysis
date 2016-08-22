@@ -38,3 +38,4 @@ This repository differs from the book in that the Matlab code has been translate
     * 2.5 Testing the assumption of Gaussian statistics  
     * 2.6 Conditional probability density functions  
     * 2.7 Confidence intervals  
+    * 2.8 Computing realizations of random variables  
