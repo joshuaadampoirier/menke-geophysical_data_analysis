@@ -8,7 +8,7 @@ Transcribed and translated (from Matlab to Python) by Joshua Poirier
 ### Purpose  
 The purpose of this repository is solely for personal development and is intended strictly as a remote copy of the version controlled repository.  All material is credited to **William Menke**'s 2012 Third Edition of "*Geophysical Data Analysis: Discrete Inverse Theory (Matlab Edition)*" and its publisher **Academic Press**.  The data contained in this repository was originally downloaded from the books companion website [here](http://www.elsevierdirect.com/v2/companion.jsp?ISBN=9780123971609), along with PowerPoint presentations of related lecture material, and Matlab code.  
 
-
+**NOTE:**  Much of the LaTeX is not properly rendered/formatted by GitHub.  Locally, it all looks good for me.  
 
 ### Repository Description  
 
