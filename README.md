@@ -39,3 +39,6 @@ This repository differs from the book in that the Matlab code has been translate
     * 2.6 Conditional probability density functions  
     * 2.7 Confidence intervals  
     * 2.8 Computing realizations of random variables  
+
+  * **ch03.ipynb** Solution of the linear, Gaussian inverse problem, Viewpoint 1  
+    * 3.1 The lengths of estimates  
