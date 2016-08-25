@@ -43,3 +43,5 @@ This repository differs from the book in that the Matlab code has been translate
   * **ch03.ipynb** Solution of the linear, Gaussian inverse problem, Viewpoint 1  
     * 3.1 The lengths of estimates  
     * 3.2 Measures of length  
+    * 3.3 Least squares for a straight line  
+    * 3.4 The least squares solution of the linear inverse problem  
