@@ -45,3 +45,10 @@ This repository differs from the book in that the Matlab code has been translate
     * 3.2 Measures of length  
     * 3.3 Least squares for a straight line  
     * 3.4 The least squares solution of the linear inverse problem  
+    * 3.5 Some examples  
+      * 3.5.1 The straight line problem  
+        * Using simulated data  
+      * 3.5.2 Fitting a parabola  
+        * Kepler's Third Law - The cube of the orbital radius of a planet equals the square of its orbital period  
+      * 3.5.3 Fitting a plane surface  
+        * Fitting a geologic fault planar surface using earthquake's along Kurile subduction zone  
