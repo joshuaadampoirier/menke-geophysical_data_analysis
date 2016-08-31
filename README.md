@@ -52,3 +52,15 @@ This repository differs from the book in that the Matlab code has been translate
         * Kepler's Third Law - The cube of the orbital radius of a planet equals the square of its orbital period  
       * 3.5.3 Fitting a plane surface  
         * Fitting a geologic fault planar surface using earthquake's along Kurile subduction zone  
+    * 3.6 The existence of the least squares solution  
+      * 3.6.1 Underdetermined problems  
+      * 3.6.2 Even-determined problems  
+      * 3.6.3 Overdetermined problems  
+    * 3.7 The purely underdetermined problem  
+    * 3.8 Mixed-determined problems  
+    * 3.9 Weighted measures of length as a type of *a priori* information  
+      * 3.9.1 Weighted least squares  
+      * 3.9.2 Weighted minimum length  
+      * 3.9.3 Weighted damped least squares  
+    * 3.10 Other types of *a priori* information  
+      * 3.10.1 Example: Constrained fitting of a straight line
