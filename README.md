@@ -65,3 +65,4 @@ This repository differs from the book in that the Matlab code has been translate
     * 3.10 Other types of *a priori* information  
       * 3.10.1 Example: Constrained fitting of a straight line
     * 3.11 The variance of the model parameter estimates  
+    * 3.12 Variance and prediction error of the least squares solution  
