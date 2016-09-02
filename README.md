@@ -40,7 +40,7 @@ This repository differs from the book in that the Matlab code has been translate
     * 2.7 Confidence intervals  
     * 2.8 Computing realizations of random variables  
 
-  * **ch03.ipynb** Solution of the linear, Gaussian inverse problem, Viewpoint 1  
+  * **ch03.ipynb** Solution of the linear, Gaussian inverse problem, Viewpoint 1: The length method  
     * 3.1 The lengths of estimates  
     * 3.2 Measures of length  
     * 3.3 Least squares for a straight line  
@@ -66,3 +66,15 @@ This repository differs from the book in that the Matlab code has been translate
       * 3.10.1 Example: Constrained fitting of a straight line
     * 3.11 The variance of the model parameter estimates  
     * 3.12 Variance and prediction error of the least squares solution  
+
+  * **ch04.ipynb** Solution of the linear, Gaussian inverse problem, Viewpoint 2: Generalized inverses  
+    * 4.1 Solutions versus operators  
+    * 4.2 The data resolution matrix  
+    * 4.3 The model resolution matrix  
+    * 4.4 The unit covariance matrix  
+    * 4.5 Resolution and covariance of some generalized inverses  
+    * 4.6 Measures of goodness of resolution and covariance  
+    * 4.7 Generalized inverses with good resolution and covariance  
+      * 4.7.1 Overdetermined case  
+      * 4.7.2 Underdetermined case  
+      * 4.7.3 The general case with Dirichlet spread functions  
