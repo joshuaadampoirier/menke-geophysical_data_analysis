@@ -78,3 +78,4 @@ This repository differs from the book in that the Matlab code has been translate
       * 4.7.1 Overdetermined case  
       * 4.7.2 Underdetermined case  
       * 4.7.3 The general case with Dirichlet spread functions  
+    * 4.8 Sidelobes and the Backus-Gilbert spread function  
