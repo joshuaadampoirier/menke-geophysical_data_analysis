@@ -81,3 +81,4 @@ This repository differs from the book in that the Matlab code has been translate
     * 4.8 Sidelobes and the Backus-Gilbert spread function  
     * 4.9 The Backus-Gilbert generalized inverse for the underdetermined problem  
     * 4.10 Including the covariance size  
+    * 4.11 The trade-off of resolution and variance  
