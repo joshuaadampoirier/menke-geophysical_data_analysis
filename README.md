@@ -83,3 +83,6 @@ This repository differs from the book in that the Matlab code has been translate
     * 4.10 Including the covariance size  
     * 4.11 The trade-off of resolution and variance  
     * 4.12 Techniques for computing resolution  
+
+  * **ch05.ipynb** Solution of the linear, Gaussian inverse problem, Viewpoint 3: Maximum likelihood methods  
+    * 5.1 The mean of a group of measurements  
